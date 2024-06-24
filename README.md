@@ -2,14 +2,14 @@
 
 ## About
 
-Wails template for Nextjs with app router. For more details [Nextjs-Template](https://github.com/thisisvk-in/wails-template-nextjs-app-router).
+Wails template for Nextjs with app router. For more details [Nextjs-Template](https://github.com/edai-git/wails-template-nextjs-app-router).
 
 ## Start
 
 To use this template follow below command
 
 ```bash
-wails init -n "Your Project Name" -t https://github.com/thisisvk-in/wails-template-nextjs-app-router
+wails init -n "Your Project Name" -t https://github.com/edai-git/wails-template-nextjs-app-router
 ```
 
 ## Live Development
