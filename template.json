@@ -1,7 +1,7 @@
 {
   "name": "wails-template-nextjs-app-router",
   "shortname": "nextjs",
-  "author": "venkadeshshiva",
+  "author": "venkadeshshiva, edai",
   "description": "A wails template with Next.js app router" ,
-  "helpurl": "https://github.com/thisisvk-in/wails-template-nextjs-app-router"
+  "helpurl": "https://github.com/edai-git/wails-template-nextjs-app-router"
 }
